@@ -14,7 +14,7 @@
   - [Community and Forums](#community-and-forums)
   - [Certifications and Credentials](#certifications-and-credentials)
   - [Best Practices and Guides](#best-practices-and-guides)
-  - [Contribute](#contribute)
+- [Contribute](#contribute)
 - [License](#license)
 
 
@@ -27,6 +27,11 @@ A collection of high-quality online courses and tutorials across various subject
 - [Khan Academy](https://www.khanacademy.org/) • Free educational resources for K-12 and beyond.
 - [Udemy](https://www.udemy.com/) • Wide range of courses on diverse topics.
 - [Codecademy](https://www.codecademy.com/) • Interactive coding tutorials for beginners and advanced learners.
+- [ALISON](https://alison.com/) • Free online courses and certification programs.
+- [Udacity](https://www.udacity.com/) • Offers nanodegree programs in collaboration with industry partners. Known for its Nanodegree programs in areas like data science, AI, and programming.
+- [LinkedIn Learning](https://www.linkedin.com/learning/) • Provides thousands of courses in business, technology, and creative skills.
+- [Skillshare](https://www.skillshare.com/) • Features "bite-sized" classes across various creative fields such as design, writing, and entrepreneurship. Skillshare is subscription-based but offers a free trial period.
+- [FutureLearn](https://www.futurelearn.com/) • Offers a variety of free online courses from universities around the world.
 
 ## Learning Platforms
 
@@ -35,6 +40,11 @@ Platforms that facilitate remote learning by providing comprehensive tools for e
 - [Moodle](https://moodle.org/) • Open-source learning platform customizable for various educational needs.
 - [Canvas LMS](https://www.instructure.com/canvas/) • Intuitive LMS with robust features for educators.
 - [Google Classroom](https://edu.google.com/products/classroom/) • Streamlined platform for managing classes and assignments.
+- [Teachable](https://teachable.com/) • A platform that allows instructors to create and sell online courses with customizable branding and pricing options.
+- [WizIQ](https://www.wiziq.com/) • A cloud-based education platform that supports live and on-demand webinars. Unique for its WebRTC-based Virtual Classroom.
+- [Ruzuku](https://www.ruzuku.com/) • Ruzuku differanties from other platforms by allowing instrutors to create social profiles for students, making it easier for them to connect and collaborate.
+- [Educadium](https://www.educadium.com/) • A platform designed to assist entrepreneurs and organizations in creating, managing, and profiting from online teaching.
+- [LearnWorlds](https://www.learnworlds.com/) • Good for interactibe video capabilities. Instructors can embed quizzes and pools directly into videos.
 
 ## Virtual Classroom Tools
 
