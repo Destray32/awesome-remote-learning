@@ -2,6 +2,8 @@
 
 > A curated list of awesome remote learning resources, tools, and best practices.
 
+A collection of awesome resources for teachers and learners. Contributions are more than welcome!
+
 
 ## Contents
 
@@ -84,8 +86,12 @@ Opportunities to earn certifications and credentials that enhance professional s
 Guides and best practices to optimize remote teaching and learning experiences.
 
 
-
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+This awesome list is under CC0 license.
