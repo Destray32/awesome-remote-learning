@@ -75,9 +75,9 @@ Online communities and forums where learners and educators can interact, share k
 
 - [Reddit - r/RemoteLearning](https://www.reddit.com/r/RemoteLearning/) • Community discussions on remote learning strategies and experiences.
 - [Stack Overflow](https://stackoverflow.com/) • Q&A platform for programming and technical queries.
-- [Busuu](https://www.busuu.com/) • A free language community where learners can practice their skills with native speakers and access interactive lessons in multiple languages. **[FREE]**
-- [Livemocha](https://www.livemochas.com/) • Offers free language lessons and opportunities to chat with other learners, creating a supportive environment for language acquisition. **[FREE]**
-- [TeacherTube](https://www.teachertube.com/) • An online community where educators can share instructional videos and engage in discussions about teaching practices. **[FREE]**
+- [Busuu](https://www.busuu.com/) • A free language community where learners can practice their skills with native speakers and access interactive lessons in multiple languages.
+- [Livemocha](https://www.livemochas.com/) • Offers free language lessons and opportunities to chat with other learners, creating a supportive environment for language acquisition.
+- [TeacherTube](https://www.teachertube.com/) • An online community where educators can share instructional videos and engage in discussions about teaching practices.
 
 ## Certifications and Credentials
 
