@@ -55,6 +55,10 @@ Essential tools to create interactive and engaging virtual classrooms.
 - [Zoom](https://zoom.us/) • Video conferencing tool widely used for live classes and webinars.
 - [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software) • Collaboration platform with integrated video meetings.
 - [Cisco Webex](https://www.webex.com/) • Reliable virtual meeting and webinar solutions.
+- [Google Meet](https://meet.google.com/) • Video conferencing tool integrated with Google Workspace.
+- [BigBlueButton](https://bigbluebutton.org/) • Open-source web conferencing system designed for online learning.
+- [Jitsi Meet](https://jitsi.org/jitsi-meet/) • Secure, open-source video conferencing platform.
+
 
 ## Productivity and Organization
 
