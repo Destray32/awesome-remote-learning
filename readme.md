@@ -11,6 +11,7 @@ A collection of awesome resources for teachers and learners. Contributions are m
   - [Courses and Tutorials](#courses-and-tutorials)
   - [Learning Platforms](#learning-platforms)
   - [Virtual Classroom Tools](#virtual-classroom-tools)
+    - [Learning Management Systems (LMS)](#learning-management-systems-lms)
   - [Productivity and Organization](#productivity-and-organization)
   - [Study Resources](#study-resources)
   - [Community and Forums](#community-and-forums)
@@ -58,6 +59,10 @@ Essential tools to create interactive and engaging virtual classrooms.
 - [Google Meet](https://meet.google.com/) • Video conferencing tool integrated with Google Workspace.
 - [BigBlueButton](https://bigbluebutton.org/) • Open-source web conferencing system designed for online learning.
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/) • Secure, open-source video conferencing platform.
+- [Adobe Connect](https://www.adobe.com/products/adobeconnect.html) • Web conferencing software for webinars, eLearning, and online meetings **[30 days free trial]**.
+
+### Learning Management Systems (LMS)
+- [Blackboard](https://help.blackboard.com/) • Offers a range of tools for online learning, including a virtual classroom, discussion boards, and assessments.
 
 
 ## Productivity and Organization
