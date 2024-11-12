@@ -12,6 +12,7 @@ A collection of awesome resources for teachers and learners. Contributions are m
   - [Learning Platforms](#learning-platforms)
   - [Virtual Classroom Tools](#virtual-classroom-tools)
     - [Learning Management Systems (LMS)](#learning-management-systems-lms)
+    - [Specialized Tools for Engagement](#specialized-tools-for-engagement)
   - [Productivity and Organization](#productivity-and-organization)
   - [Study Resources](#study-resources)
   - [Community and Forums](#community-and-forums)
@@ -63,6 +64,17 @@ Essential tools to create interactive and engaging virtual classrooms.
 
 ### Learning Management Systems (LMS)
 - [Blackboard](https://help.blackboard.com/) • Offers a range of tools for online learning, including a virtual classroom, discussion boards, and assessments.
+- [Schoology](https://www.schoology.com/) • LMS with a user-friendly interface for educators and students.
+- [Brightspace](https://www.d2l.com/brightspace/) • LMS with personalized learning experiences and analytics.
+
+### Specialized Tools for Engagement
+- [Kahoot!](https://kahoot.com/) • Game-based learning platform for quizzes and surveys.
+- [Nearpod](https://nearpod.com/) • Interactive platform for creating engaging lessons and assessments.
+- [Pear Deck](https://www.peardeck.com/) • Interactive presentation tool that promotes student engagement.
+- [Flipgrid](https://info.flipgrid.com/) • Video discussion platform for educators and students.
+- [Edpuzzle](https://edpuzzle.com/) • Interactive video
+- [Padlet](https://padlet.com/) • Virtual wall for sharing ideas, images, and videos.
+- [Seesaw](https://web.seesaw.me/) • Digital portfolio tool for student engagement and parent communication.
 
 
 ## Productivity and Organization
