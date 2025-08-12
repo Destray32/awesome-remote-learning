@@ -89,6 +89,8 @@ Apps and tools that help educators and learners stay organized and productive in
 
 Valuable resources to enhance studying, including open textbooks, e-books, and more.
 
+- [OpenStax](https://openstax.org/) • Offers free, peer-reviewed, and openly licensed college textbooks. **[FREE]**
+- [Quizlet](https://quizlet.com/) • A popular study platform with flashcards, games, and quizzes on various subjects. **[Free plan available]**
 
 ## Community and Forums
 
