@@ -85,6 +85,8 @@ Apps and tools that help educators and learners stay organized and productive in
 - [Trello](https://trello.com/) • Visual project management tool using boards and cards. **[FREE]**
 - [Asana](https://asana.com/) • Task management platform to track projects and workflows. **[FREE]**
 
+- [Novastart](https://novastart.com/) • Infinite-canvas workspace for apps, shared canvases, and AI agents. [Free plan; paid collaboration and AI]
+
 ## Study Resources
 
 Valuable resources to enhance studying, including open textbooks, e-books, and more.
